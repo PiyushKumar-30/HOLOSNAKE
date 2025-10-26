@@ -28,7 +28,7 @@ Built using **Python**, **OpenCV**, **cvzone**, and **pygame**, this project ble
 ---
 
 ## 🧩 Project Structure
-
+   ```bash
 HOLOSNAKE/
 │
 ├── main.py                          # Main Python file containing game and menu logic
@@ -67,6 +67,9 @@ HOLOSNAKE/
 3. **Run the Game**
    ```bash
    python main.py
+
+
+
 
 
 
