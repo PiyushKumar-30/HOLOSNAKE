@@ -15,6 +15,15 @@ Built using **Python**, **OpenCV**, **cvzone**, and **pygame**, this project ble
 - 🕵️ **Modern UI:** Minimalistic design with smooth gameplay experience.
 
 ---
+# Game Images
+<img width="602" height="340" alt="image" src="https://github.com/user-attachments/assets/26dd9e52-72b0-48ce-ba7a-da9f22ae8e76" />
+<img width="602" height="340" alt="image" src="https://github.com/user-attachments/assets/3e530877-cba7-4c11-a912-716bd945a162" />
+<img width="602" height="338" alt="image" src="https://github.com/user-attachments/assets/b9dd5d3e-3561-49b0-8cc9-17307ca3dd2e" />
+
+
+
+
+---
 
 ## 🛠️ Tech Stack
 
