@@ -31,26 +31,24 @@ Built using **Python**, **OpenCV**, **cvzone**, and **pygame**, this project ble
    ```bash
    HOLOSNAKE/
    │
-   ├── main.py                          # Main Python file containing game and menu logic
+   ├── main.py                  # Main game code
+   ├── requirements.txt         # Python dependencies
+   ├── README.md                # Project description
    │
-   ├── README.md                        # Project documentation (overview, setup, features)
-   ├── requirements.txt                  # Python dependencies list
+   ├── Game Music/              # All music and sound files
+   │   ├── background.wav
+   │   ├── eat.wav
+   │   ├── game_over.wav
+   │   ├── menu_hover.mp3
+   │   └── menu_select.wav
    │
-   ├── wall.png                         # Wall/obstacle image used in gameplay
-   ├── donut.png                        # Food image used for the snake game
-   │
-   ├── Game Music/                      # Folder containing all sound assets
-   │   ├── eat.wav                      # Sound effect when snake eats food
-   │   ├── game_over.wav                # Sound effect on game over
-   │   ├── menu_hover.mp3               # Sound for hovering over menu items
-   │   ├── menu_select.wav              # Sound for selecting a menu option
-   │   └── background.wav               # Background music during gameplay
-   │
-   ├── assets/                          # (Optional) Folder for extra visual assets or icons
-   │   ├── gameplay_preview.gif         # Gameplay preview GIF for README
-   │   └── menu_preview.png             # Menu screen image for README
+   ├── Games Images/            # Images used in the game
+   │   ├── donut.png            # Food image
+   │   └── wall.png             # Wall/obstacle image
+   ├── Game Code Files
+       ├── highscore.json           # Stores high score
 
-```
+   ```
 
 
 ---
@@ -67,7 +65,7 @@ Built using **Python**, **OpenCV**, **cvzone**, and **pygame**, this project ble
 3. **Run the Game**
    ```bash
    python main.py
-
+   ```
 
 
 
